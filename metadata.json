@@ -1,0 +1,7 @@
+{
+  "name": "ICP - Insurance Claim Platform",
+  "description": "AI-powered car insurance claims platform connecting Policyholders, Repair Shops, and Insurance Agents.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
