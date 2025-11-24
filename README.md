@@ -1,6 +1,9 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
+
+# Vision and Goals
+
+The Insurance Claim Platform (ICP) aims to revolutionize the car insurance claims process by leveraging AI to automate damage assessment and repair estimation. The core value proposition is delivering efficiency, accuracy, and cost reduction for the insurance company, while providing a transparent, seamless digital experience for Policyholders, Repair Shops, and Claims Agents.
 
 # Run and deploy your AI Studio app
 
